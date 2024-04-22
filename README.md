@@ -25,7 +25,7 @@ NovelNook is a full-stack web application that serves as your personal digital l
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/NovelNook.git
+   git clone https://github.com/finzyphinzy/NovelNook.git
    ```
 
 2. Navigate to the project directory:
