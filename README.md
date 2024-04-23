@@ -1,4 +1,4 @@
-# NovelNook
+# NovelNook - Your Interactive Bookshelf
 
 NovelNook is a full-stack web application that serves as your personal digital library, allowing you to manage and explore your book collection with ease.
 
